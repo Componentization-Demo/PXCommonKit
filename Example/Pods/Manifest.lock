@@ -1,0 +1,16 @@
+PODS:
+  - PXCommonKit (0.1.0)
+
+DEPENDENCIES:
+  - PXCommonKit (from `../`)
+
+EXTERNAL SOURCES:
+  PXCommonKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PXCommonKit: 544a98b0565118af24310df39cc02b4e42af1538
+
+PODFILE CHECKSUM: 008f3fc27db904f95bef064a84e4372803d45c8a
+
+COCOAPODS: 1.7.5

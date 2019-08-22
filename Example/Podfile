@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'PXCommonKit_Example' do
+  pod 'PXCommonKit', :path => '../'
+
+  target 'PXCommonKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
