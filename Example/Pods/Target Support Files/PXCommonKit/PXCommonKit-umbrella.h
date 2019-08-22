@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "UIImage+pxBundle.h"
 
 FOUNDATION_EXPORT double PXCommonKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char PXCommonKitVersionString[];
